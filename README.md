@@ -17,8 +17,8 @@ Modify the input variable inside index.js to test different inputs.
 
 # 🗂️ File Structure
 
-index.js - Main logic
-README.md - This file that your viewing
+. index.js - Main logic
+. README.md - This file that your viewing
 
 # 📌 Assumptions
 
